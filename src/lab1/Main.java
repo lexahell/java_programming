@@ -1,4 +1,6 @@
+package lab1;
 
+import lab1.Lab1;
 
 import java.util.Scanner;
 
@@ -21,6 +23,8 @@ public class Main {
                 obj.start4();
                 obj.start5();
                 break;
+            case (2):
+
             default:
                 System.out.println("Работа еще не сделана или введён неверный номер");
         }

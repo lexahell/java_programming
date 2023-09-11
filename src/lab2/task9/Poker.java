@@ -53,9 +53,5 @@ public class Poker {
             System.out.println();
             System.out.println();
         }
-
-
-
-
     }
 }

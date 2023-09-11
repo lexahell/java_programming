@@ -4,30 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="1 практическая работа">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task1/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task1/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task10/HowMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task2/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task3/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task3/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task4/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task4/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task5/DogKennel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task7/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task7/Bookshelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task8/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task9/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="2 практическая работа">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/task6/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/task6/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task1/RandomArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task3/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task4/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task5/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task6/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task7/Convertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task7/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task8/Convertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task8/OnlineStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task9/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/task9/Report.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Lab1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/task9/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task9/Poker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -62,13 +60,23 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java_progpramming/src/lab3/task2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab3\task2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab3.task8" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +91,11 @@
       <workItem from="1693992920970" duration="4499000" />
       <workItem from="1694025850585" duration="6621000" />
       <workItem from="1694061009879" duration="1535000" />
-      <workItem from="1694110442084" duration="10530000" />
+      <workItem from="1694110442084" duration="14484000" />
+      <workItem from="1694242326946" duration="21902000" />
+      <workItem from="1694411802403" duration="616000" />
+      <workItem from="1694418138424" duration="4643000" />
+      <workItem from="1694456005918" duration="6868000" />
     </task>
     <task id="LOCAL-00001" summary="1 практическая работа">
       <option name="closed" value="true" />
@@ -93,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693848767460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 практическая работа">
+      <option name="closed" value="true" />
+      <created>1694121178803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694121178804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 практическая работа" />
+    <MESSAGE value="2 практическая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 практическая работа" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,27 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="2 практическая работа">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task6/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task6/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task1/RandomArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task2/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task3/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task4/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task5/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task6/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task7/Convertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task7/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task8/Convertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task8/OnlineStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task9/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task9/Report.java" afterDir="false" />
+    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="3 практическая работа">
+      <change afterPath="$PROJECT_DIR$/src/lab4/task1/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task1/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/CatalogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/OnlineStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/ComputerBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/task9/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task9/Poker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +32,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-20.0.2/lib/src.zip!/java.base/java/lang/Character.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-20.0.2/lib/src.zip!/java.base/java/lang/Short.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -65,7 +68,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -95,7 +98,12 @@
       <workItem from="1694242326946" duration="21902000" />
       <workItem from="1694411802403" duration="616000" />
       <workItem from="1694418138424" duration="4643000" />
-      <workItem from="1694456005918" duration="6868000" />
+      <workItem from="1694456005918" duration="7526000" />
+      <workItem from="1694464427905" duration="4000" />
+      <workItem from="1694505276409" duration="4437000" />
+      <workItem from="1694516599657" duration="1000" />
+      <workItem from="1694677120340" duration="23000" />
+      <workItem from="1694787796623" duration="16944000" />
     </task>
     <task id="LOCAL-00001" summary="1 практическая работа">
       <option name="closed" value="true" />
@@ -113,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694121178804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3 практическая работа">
+      <option name="closed" value="true" />
+      <created>1694463796223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694463796224</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 практическая работа" />
     <MESSAGE value="2 практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 практическая работа" />
+    <MESSAGE value="3 практическая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 практическая работа" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -133,5 +150,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

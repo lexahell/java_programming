@@ -17,31 +17,24 @@ public class Computer {
     public ComputerBrand getBrand() {
         return brand;
     }
-
     public Processor getProcessor() {
         return processor;
     }
-
     public Memory getMemory() {
         return memory;
     }
-
     public Monitor getMonitor() {
         return monitor;
     }
-
     public void setBrand(ComputerBrand brand) {
         this.brand = brand;
     }
-
     public void setProcessor(Processor processor) {
         this.processor = processor;
     }
-
     public void setMemory(Memory memory) {
         this.memory = memory;
     }
-
     public void setMonitor(Monitor monitor) {
         this.monitor = monitor;
     }

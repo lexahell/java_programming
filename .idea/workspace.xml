@@ -4,40 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="5 практическая работа">
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/ComputerBrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Convertable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Fahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Kelvin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task12/AppendCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task12/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task12/DeleteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task12/StringBuilderWithUndo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1and2/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1and2/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1and2/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1and2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task5/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task5/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task5/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task8/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task8/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task9/Tester.java" afterDir="false" />
+    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="6 практическая работа">
+      <change afterPath="$PROJECT_DIR$/src/lab7/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task5/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task6/ProcessStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/task1/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/task1and2/Movable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/task1/MovableCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/task1/MovablePoint.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +78,7 @@
       <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab41\task11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab7\task7_8" />
       <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab5\task3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -158,7 +134,8 @@
       <workItem from="1695560995690" duration="14893000" />
       <workItem from="1695621603668" duration="1944000" />
       <workItem from="1695624922736" duration="2089000" />
-      <workItem from="1695627782126" duration="173000" />
+      <workItem from="1695627782126" duration="2574000" />
+      <workItem from="1695645471845" duration="4359000" />
     </task>
     <task id="LOCAL-00001" summary="1 практическая работа">
       <option name="closed" value="true" />
@@ -208,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695580242742</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="6 практическая работа">
+      <option name="closed" value="true" />
+      <created>1695628040987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695628040987</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +217,8 @@
     <MESSAGE value="4 практическая работа" />
     <MESSAGE value="4.1 практическая работа" />
     <MESSAGE value="5 практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 практическая работа" />
+    <MESSAGE value="6 практическая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 практическая работа" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

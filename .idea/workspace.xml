@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="6 практическая работа">
-      <change afterPath="$PROJECT_DIR$/src/lab7/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task5/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task6/ProcessStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task7_8/Tester.java" afterDir="false" />
+    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="7 практическая работа">
+      <change afterPath="$PROJECT_DIR$/src/lab8/task4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task6/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task7/Task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +133,8 @@
       <workItem from="1695624922736" duration="2089000" />
       <workItem from="1695627782126" duration="2574000" />
       <workItem from="1695645471845" duration="4359000" />
+      <workItem from="1695676607172" duration="3192000" />
+      <workItem from="1695714181253" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="1 практическая работа">
       <option name="closed" value="true" />
@@ -193,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695628040987</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="7 практическая работа">
+      <option name="closed" value="true" />
+      <created>1695676806704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695676806704</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +225,8 @@
     <MESSAGE value="4.1 практическая работа" />
     <MESSAGE value="5 практическая работа" />
     <MESSAGE value="6 практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 практическая работа" />
+    <MESSAGE value="7 практическая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 практическая работа" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

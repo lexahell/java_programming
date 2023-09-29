@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="7 практическая работа">
-      <change afterPath="$PROJECT_DIR$/src/lab8/task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task6/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task7/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task1/InsertionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task2/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task3/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,23 +51,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java_progpramming/src/lab6/task5&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/java_progpramming/src/lab6/task5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lab6.task12" />
@@ -83,16 +88,6 @@
       <recent name="lab41.task11" />
       <recent name="lab3.task8" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab5.task3.DisplayImage" />
-      <module name="java_progpramming" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\user\IdeaProjects\java_progpramming\src\lab5\task3\like.png" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

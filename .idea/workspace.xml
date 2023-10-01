@@ -4,22 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="7 практическая работа">
-      <change afterPath="$PROJECT_DIR$/src/lab9/task1/InsertionSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task2/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task3/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="9 практическая работа">
+      <change afterPath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task2_3/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task2/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task2/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task3/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task3/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task3/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task4/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task4/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task4/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task4/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task5/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task5/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task5/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task5/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task5/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task5/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task6/Employer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task6/Employer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task6/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task6/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task6/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task6/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task7/Learner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/Learner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task7/SchoolChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/SchoolChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task7/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task9/FurnitureShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/FurnitureShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Sofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Sofa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab9/task2/SortingStudentsByGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9/task2_3/SortingStudentsByGPA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab9/task2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9/task2_3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab9/task2/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab9/task3/MergeSort.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\aleks\IdeaProjects\java_programming\htmlReport" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,6 +71,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lexahell&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fc0f3856-53b5-4df8-ba93-01257fc9a585" />
+        <option name="url" value="https://github.com/lexahell/java_programming.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/openjdk-20.0.2/lib/src.zip!/java.base/java/lang/Character.java" root0="SKIP_INSPECTION" />
@@ -51,23 +103,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/java_progpramming/src/lab6/task5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java_progpramming/src/lab6/task5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lab6.task12" />
@@ -195,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695676806704</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="9 практическая работа">
+      <option name="closed" value="true" />
+      <created>1695997429495</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695997429495</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +281,8 @@
     <MESSAGE value="5 практическая работа" />
     <MESSAGE value="6 практическая работа" />
     <MESSAGE value="7 практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 практическая работа" />
+    <MESSAGE value="9 практическая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 практическая работа" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -236,5 +297,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_programming$Tester.ic" NAME="Tester Coverage Results" MODIFIED="1696188508688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab9.task2_3.*</FILTER>
+    </SUITE>
   </component>
 </project>

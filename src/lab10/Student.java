@@ -16,12 +16,13 @@ public class Student {
         this.GPA = GPA;
     }
 
-    public Student(String firstName, String lastName, String specialization, int course, String group) {
+    public Student(String firstName, String lastName, String specialization, int course, String group, int GPA) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.specialization = specialization;
         this.course = course;
         this.group = group;
+        this.GPA = GPA;
     }
 
     public String getFirstName() {
@@ -66,7 +67,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return firstName + " " + lastName + " " + course + " курс " + specialization + " " +  group;
+        return firstName + " " + lastName + " " + course + " курс " + specialization + " " +  group + " " + GPA + " баллов";
     }
 
 }

@@ -4,52 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="9 практическая работа">
-      <change afterPath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task2_3/Tester.java" afterDir="false" />
+    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="9 практическая работа переделанная">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task1/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task1/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Ship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task10/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task10/Transport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task2/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task2/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task3/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task3/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task3/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task4/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task4/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task4/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task4/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task5/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task5/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task5/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task5/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task5/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task5/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task6/Employer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task6/Employer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task6/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task6/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task6/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task6/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task7/Learner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/Learner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task7/SchoolChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/SchoolChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task7/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task7/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task8/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task8/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Chair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Furniture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task9/FurnitureShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/FurnitureShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Sofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Sofa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab41/task9/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/lab41/task9/Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9/task2/SortingStudentsByGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9/task2_3/SortingStudentsByGPA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9/task2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9/task2_3/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9/task2/Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9/task3/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab10/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab10/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695997429495</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="9 практическая работа переделанная">
+      <option name="closed" value="true" />
+      <created>1696189918019</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696189918020</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +248,8 @@
     <MESSAGE value="6 практическая работа" />
     <MESSAGE value="7 практическая работа" />
     <MESSAGE value="9 практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 практическая работа" />
+    <MESSAGE value="9 практическая работа переделанная" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 практическая работа переделанная" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

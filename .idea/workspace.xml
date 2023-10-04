@@ -4,10 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="9 практическая работа переделанная">
+    <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="10 практическая работа">
+      <change afterPath="$PROJECT_DIR$/src/lab11/task1/TaskSubmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task2/CompareDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task4/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task5/CompareCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task5/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task1/FootballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task2/RandomShapesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task3/DisplayImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task3/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/task4/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task1/StringLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab10/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab10/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/task3/DisplayImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/task3/DisplayImage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +86,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/java_progpramming/src/lab6/task5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aleks/IdeaProjects/java_programming/src/lab12&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,11 +101,11 @@
       <recent name="lab6.task12" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab6\task5" />
-      <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab6\task10" />
-      <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab6\task6" />
-      <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab5\task1" />
-      <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab41\task11" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab12" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab5" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab12\" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab11\task5" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab11\task4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab7\task7_8" />
@@ -221,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696189918020</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="10 практическая работа">
+      <option name="closed" value="true" />
+      <created>1696193994976</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696193994976</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +275,8 @@
     <MESSAGE value="7 практическая работа" />
     <MESSAGE value="9 практическая работа" />
     <MESSAGE value="9 практическая работа переделанная" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 практическая работа переделанная" />
+    <MESSAGE value="10 практическая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 практическая работа" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

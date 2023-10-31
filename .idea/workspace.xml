@@ -5,27 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="612860ff-e6af-4654-be1b-a06ffd767d42" name="Changes" comment="10 практическая работа">
-      <change afterPath="$PROJECT_DIR$/src/lab11/task1/TaskSubmission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task2/CompareDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task3/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task4/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task5/CompareCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task5/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task1/FootballGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task2/RandomShapesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task3/DisplayImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task3/like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/task4/Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab13/task1/StringLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab13/task2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task4/TShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task4/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task5/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task5/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/task6/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/StringManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/VerticalLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/Task16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/VerticalLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task1_3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task1_3/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task1_3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task4/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task4/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task5/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/task5/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/Task21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/UniversalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/CalculatorControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/Task22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Evaluatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Task23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/ComplexAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/ConcreteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/AbstractChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/ChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/FunctionalChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/MagicChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task2/VictorianChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/CreateImageDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/CreateMusicDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/CreateTextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/EditorWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/ICreateDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/IDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/ImageDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/MusicDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task3/TextDocument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab5/task3/DisplayImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/task3/DisplayImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab13/task2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab13/task2/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,39 +127,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aleks/IdeaProjects/java_programming/src/lab12&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/aleks/IdeaProjects/java_programming/src/lab23",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="lab13.task6" />
       <recent name="lab6.task12" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab12" />
-      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab5" />
-      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab12\" />
-      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab11\task5" />
-      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab11\task4" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab23" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab24\task3" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab24\task2" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab22" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src\lab21" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming" />
+      <recent name="C:\Users\aleks\IdeaProjects\java_programming\src" />
       <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab7\task7_8" />
       <recent name="C:\Users\user\IdeaProjects\java_progpramming\src\lab5\task3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab17" />
       <recent name="lab6.task9" />
       <recent name="lab41.task11" />
       <recent name="lab3.task8" />
